@@ -9,7 +9,7 @@ API REST permettant de gérer des fiches de jeux vidéo.
 ```bash
 docker-compose up --build
 
-###############################################################################################
+##################### CECI EST UN APERÇU DE CE SERA NOTRE RAPPORT ##########################################
 📄 README.md – API Jeux Vidéo Dockerisée
 🎮 Projet : API de gestion de jeux vidéo
 
@@ -116,7 +116,7 @@ node-api-mongo-docker-lab-api-1
 
 node-api-mongo-docker-lab-mongo-1
 
-🧪 Tests Postman
+🧪 Tests Postman - Vérifié & Validé 
 🔸 Exemple POST :
 
 POST http://localhost:3000/games
